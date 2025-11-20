@@ -1,0 +1,101 @@
+    1  pwd
+    2  exit
+    3  touch ficheiro.txt
+    4  ls
+    5  echo "Numero:134276" >> ficheiro.txt
+    6  cat ficheiro.txt
+    7  echo "Nome: António Valente" >> ficheiro.txt
+    8  echo "Nome: Data: 02/10/2025" >> ficheiro.txt
+    9  cat ficheiro.txt
+   10  exit
+   11  ls
+   12  sudo apt update
+   13  sudo apt upgrade -y
+   14  sudo apt install apache2 -y
+   15  sudo systemctl status apache2
+   16  sudo systemctl start apache2
+   17  sudo systemctl enable apache2
+   18  sudo systemctl start apache2
+   19  cd /var/www/html
+   20  git
+   21  LS
+   22  ls
+   23  mkdir teste
+   24  cd teste
+   25  git clone https://github.com/toraval/LI2025-Teste03.git
+   26  ls
+   27  mkdir A134276
+   28  ls
+   29  cd A134276
+   30  touch README.md
+   31  ls
+   32  echo "Teste de LI 2025/2026." > README.md
+   33  cd ..
+   34  git add .
+   35  git add.
+   36  git add .
+   37  ls
+   38  cd LI2025-Teste03
+   39  mkdir A134276
+   40  ls
+   41  cd A134276
+   42  touch README.md
+   43  echo "Teste de LI 2025/2026." > README.md
+   44  cd ..
+   45  git add .
+   46  git commit -m "Tarefa 2"
+   47  git push branch main
+   48  git push origin main
+   49  toraval
+   50  git push origin main
+   51  pwd
+   52  Na consola de acesso à sua VM:
+   53  Usando o GIT atualize o seu projeto;
+   54  Duplique o ficheiro index.html por forma a que a cópia se designe "disciplinas.html";
+   55  Faça push para main com a mensagem "Criado ficheiro disciplinas.html a partir do ficheiro index.html";
+   56  Agora na consola de terminal do seu projeto LOCAL:
+   57  Atualize o seu projeto localmente usando o GIT;
+   58  Edite o novo ficheiro por forma a que agora, além do menu no topo, disponibilize ao utilizador uma tabela com detalhes de disciplinas.
+   59  A tabela será composta por 3 colunas:
+   60  a primeira deve conter título com a descrição "Disciplinas";
+   61  a segunda coluna deve conter título "Área Científica";
+   62  A terceira e última deve conter título "Créditos ECTS";
+   63  Preencha o resto da tabela por forma a ficar com os conteúdos da imagem seguinte; ⁣
+   64  Faça push do projeto com a mensagem "5ª tarefa c
+   65  git pull origin main
+   66  ls
+   67  cp index.html disciplinas.html
+   68  ls
+   69  git add .
+   70  git commit .m "Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+   71  git commit -m "Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+   72  git push origin main
+   73  git pull origin main
+   74  history > meusComandosAzure.txt
+   75  cat meusComandosAzure.txt
+   76  git add . && git commit -m "history azure" && git push origin main
+   77  ls
+   78  mkdir teste2
+   79  cd teste 2
+   80  cd teste2
+   81  git clone https://github.com/toraval/LI2025-Teste03.git
+   82  cd LI2025-Teste03
+   83  ls
+   84  mkdir A134276
+   85  cd A134276
+   86  echo "Teste de LI 2025/2026." > README.md
+   87  cd ..
+   88  git add A123456/README.md
+   89  git add A134276/README.md
+   90  git add .
+   91  git commit -m "2ª tarefa concluída"
+   92  git push origin main
+   93  git pull origin main
+   94  cp index.html disciplinas.html
+   95  ls
+   96  git add .
+   97  git commit -m "Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+   98  git push main origin
+   99  git push origin main
+  100  git pull origin main
+  101  history > meusComandosAzure.txt
